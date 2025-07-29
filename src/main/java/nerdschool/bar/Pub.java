@@ -2,6 +2,7 @@ package nerdschool.bar;
 
 /**
  * Testclass for Codesmells
+ *
  */
 public class Pub {
     public static final String ONE_BEER = "hansa";
