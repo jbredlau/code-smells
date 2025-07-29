@@ -1,5 +1,8 @@
 package nerdschool.bar;
 
+/**
+ * Testclass for Codesmells
+ */
 public class Pub {
     public static final String ONE_BEER = "hansa";
     public static final String ONE_CIDER = "grans";
@@ -50,7 +53,7 @@ public class Pub {
     private int ingredient3() {
         return 10;
     }
-    
+
     //one unit of green stuff
     private int ingredient4() {
         return 10;
